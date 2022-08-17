@@ -1,0 +1,11 @@
+C:\Users\tugbe\source\repos\CSV Grafik Çıkarma\CSV Grafik Çıkarma\obj\Debug\CSV Grafik Çıkarma.csproj.AssemblyReference.cache
+C:\Users\tugbe\source\repos\CSV Grafik Çıkarma\CSV Grafik Çıkarma\obj\Debug\CSV Grafik Çıkarma.csproj.SuggestedBindingRedirects.cache
+C:\Users\tugbe\source\repos\CSV Grafik Çıkarma\CSV Grafik Çıkarma\obj\Debug\CSV_Grafik_Çıkarma.Form1.resources
+C:\Users\tugbe\source\repos\CSV Grafik Çıkarma\CSV Grafik Çıkarma\obj\Debug\CSV_Grafik_Çıkarma.Properties.Resources.resources
+C:\Users\tugbe\source\repos\CSV Grafik Çıkarma\CSV Grafik Çıkarma\obj\Debug\CSV Grafik Çıkarma.csproj.GenerateResource.cache
+C:\Users\tugbe\source\repos\CSV Grafik Çıkarma\CSV Grafik Çıkarma\obj\Debug\CSV Grafik Çıkarma.csproj.CoreCompileInputs.cache
+C:\Users\tugbe\source\repos\CSV Grafik Çıkarma\CSV Grafik Çıkarma\bin\Debug\CSV Grafik Çıkarma.exe.config
+C:\Users\tugbe\source\repos\CSV Grafik Çıkarma\CSV Grafik Çıkarma\bin\Debug\CSV Grafik Çıkarma.exe
+C:\Users\tugbe\source\repos\CSV Grafik Çıkarma\CSV Grafik Çıkarma\bin\Debug\CSV Grafik Çıkarma.pdb
+C:\Users\tugbe\source\repos\CSV Grafik Çıkarma\CSV Grafik Çıkarma\obj\Debug\CSV Grafik Çıkarma.exe
+C:\Users\tugbe\source\repos\CSV Grafik Çıkarma\CSV Grafik Çıkarma\obj\Debug\CSV Grafik Çıkarma.pdb
